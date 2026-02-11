@@ -37,6 +37,7 @@ uv add pyarrow
 uv add pgcli
 uv add sqlalchemy psycopg2-binary
 uv add tqdm
+uv add python-dotenv
 ```
 
 ### 6. View Installed Packages
